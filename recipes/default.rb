@@ -1,4 +1,4 @@
-#
+# encoding: UTF-8
 # Author:: Shawn Weitzel (<sweitzel@daptiv.com>)
 # Cookbook Name:: fiddler
 # Recipe:: default

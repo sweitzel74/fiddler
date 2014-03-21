@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 
+gem 'chefspec', '~> 3.4'
+gem 'rspec'
+gem 'rspec-core'
+gem 'rspec-expectations'
+gem 'rspec-mocks'
 gem 'chef', '~> 11.4.0'
 gem 'foodcritic', '>=3.0.0'
 gem 'daptiv-foodcritic-rules'
